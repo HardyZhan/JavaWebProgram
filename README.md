@@ -1,5 +1,17 @@
 # JavaWebProgram
 基于JavaWeb，数据库使用mybatis框架，前端使用vue、axios框架，采用MVC三层架构的方式实现增删改查等功能
+涉及知识点：
+* Java
+* JavaScript
+* HTML
+* CSS
+* servlet
+* AJAX
+* axios
+* vue
+* mybatis
+* tomcat服务器
+* mysql
 
 ## 程序功能展示
 ### 前端界面显示
